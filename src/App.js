@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import { useState } from 'react';
 import './App.css';
-import Example from './component/MouseMove'
-import MouseMove from './component/UseEffectExample'
+import Example from './component/RealOne'
+// import MouseMove from './component/UseEffectExample'
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
 
-      <MouseMove />
+      <Example />
     </div>
   );
 }
