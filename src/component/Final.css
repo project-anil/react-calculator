@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+.calculator{
+    max-width:400px;
+    margin:0 auto;
+    border:2px solid black;
+    border-radius: 5px;
+    padding-top:30px;
+}
+.calc-button{
+    background:rgba(0, 0, 0, 0.5);
+    border: 2px solid lawngreen;
+    padding: 20px;
+    color: lightgreen;
+    border-radius: 5px;
+    font-size:22px;
+    cursor:pointer;
+
+}

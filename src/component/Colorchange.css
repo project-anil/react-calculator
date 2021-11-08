@@ -1,0 +1,13 @@
+.grid-content{
+    display: grid;
+    grid-template-columns: 300px auto;
+    align-items: center;
+    justify-items: start;
+}
+.main-div{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    margin:20px;
+}
+
