@@ -78,7 +78,7 @@ class RealOne extends Component {
                     <button className="calc-button" onClick={() => this.spaceNum()}>Backspace</button>
                     <button className="calc-button" onClick={() => this.clearNum()}>Clear</button>
                 </div>
-                <Clearall clearCal={this.numDisplay} clearMes="NO Error" />
+
 
             </div >
         )

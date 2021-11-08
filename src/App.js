@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import { useState } from 'react';
 import './App.css';
-import Example from './component/counter'
+import Example from './component/RealOne'
 // import MouseMove from './component/UseEffectExample'
 
 
